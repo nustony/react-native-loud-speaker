@@ -8,15 +8,6 @@
     "android",
     "loud-speaker"
   ],
-    "files": [
-    "**/*.@(js|ts)",
-    "*.podspec",
-    "android/build.gradle",
-    "android/src/**/*.@(java|xml)",
-    "ios/LoudSpeaker.xcodeproj/project.pbxproj",
-    "ios/LoudSpeaker/**/*.@(h|m)",
-    "!scripts"
-  ],
   "author": "huutq <huutq88@gmail.com>",
   "homepage": "https://github.com/huutq88/react-native-loud-speaker",
     "bugs": {
