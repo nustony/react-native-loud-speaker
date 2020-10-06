@@ -1,6 +1,39 @@
 {
-  "name": "react-native-loud-speaker",
-  "version": "1.0.3",
+  "_args": [
+    [
+      "git+https://github.com/nustony/react-native-loud-speaker.git#4991f859190829b53293b7cf2695992b05b593c7",
+      "/Users/apple/NUS/PROJECTs/ray-som-poc"
+    ]
+  ],
+  "_from": "git+https://github.com/nustony/react-native-loud-speaker.git#4991f859190829b53293b7cf2695992b05b593c7",
+  "_id": "react-native-loud-speaker@git+https://github.com/nustony/react-native-loud-speaker.git#4991f859190829b53293b7cf2695992b05b593c7",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-loud-speaker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/nustony/react-native-loud-speaker.git#4991f859190829b53293b7cf2695992b05b593c7",
+    "rawSpec": "git+https://github.com/nustony/react-native-loud-speaker.git#4991f859190829b53293b7cf2695992b05b593c7",
+    "saveSpec": "git+https://github.com/nustony/react-native-loud-speaker.git#4991f859190829b53293b7cf2695992b05b593c7",
+    "fetchSpec": "https://github.com/nustony/react-native-loud-speaker.git",
+    "gitCommittish": "4991f859190829b53293b7cf2695992b05b593c7"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/nustony/react-native-loud-speaker.git#4991f859190829b53293b7cf2695992b05b593c7",
+  "_spec": "git+https://github.com/nustony/react-native-loud-speaker.git#4991f859190829b53293b7cf2695992b05b593c7",
+  "_where": "/Users/apple/NUS/PROJECTs/ray-som-poc",
+  "author": {
+    "name": "huutq",
+    "email": "huutq88@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/huutq88/react-native-loud-speaker/issues"
+  },
+  "description": "A node modules can open loud speaker for react native. Support for ios and android.",
+  "homepage": "https://github.com/huutq88/react-native-loud-speaker",
   "keywords": [
     "react-native",
     "react-component",
@@ -8,13 +41,10 @@
     "android",
     "loud-speaker"
   ],
-  "author": "huutq <huutq88@gmail.com>",
-  "homepage": "https://github.com/huutq88/react-native-loud-speaker",
-    "bugs": {
-        "url": "https://github.com/huutq88/react-native-loud-speaker/issues"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/huutq88/react-native-loud-speaker.git"
-    }
+  "name": "react-native-loud-speaker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huutq88/react-native-loud-speaker.git"
+  },
+  "version": "1.0.3"
 }
